@@ -254,3 +254,8 @@ The following commands are used to compress files on linux. There are many ways 
    $ grep -i case grep_test.txt  # ignore case while searching
    This is a test file. AAA, BBB, 123, CaSe ExAmPle. # CaSe will be highlighted in the output
     ```
+## Listing Hidden Files and Normal Files
+- `ls -al`
+- If you want ot see the list of all files with all hidden files in the Current directory system in Linux
+- `ls -lha`
+- If you want to organize files in list format with their sizes and see hidden files
