@@ -251,6 +251,8 @@ The following commands are used to compress files on linux. There are many ways 
    $ grep AAA grep_test.txt
    This is a test file. AAA, BBB, 123, CaSe ExAmPle. # AAA will be highlighted in the output
 
+## `touch` command
+- Allows creating new file from terminal
    $ grep -i case grep_test.txt  # ignore case while searching
    This is a test file. AAA, BBB, 123, CaSe ExAmPle. # CaSe will be highlighted in the output
     ```
