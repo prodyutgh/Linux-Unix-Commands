@@ -8,6 +8,8 @@
 - If you want to organize the files in list
 - `ls -lh`
 - If you want to arrange the files in list and show their size
+- `ls -h`
+- If you want to show size in human readable form
 
 
 ## Listing Hidden Files and Normal Files
